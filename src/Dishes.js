@@ -7,5 +7,4 @@ function Dishes(){
         </div>
     );
 }
-
 export default Dishes;

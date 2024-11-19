@@ -7,5 +7,4 @@ function FoodType(){
         </div>
     );
 }
-
 export default FoodType;

@@ -29,7 +29,6 @@ body {
     outline: none;
     transition: all 0.3s ease-in-out;
 }
-
 .search-bar:focus {
     border-color: #00bcd4;
 }
@@ -80,7 +79,7 @@ body {
   flex-direction: column;
 }
 .banner-top-tagline {
-  font-size: 2rem;
+  font-size: 1.75rem;
   color: #ff6347;
   margin: 0;
   margin-bottom: 10px;
@@ -90,7 +89,7 @@ body {
   margin: 0;
 }
 .banner-tagline {
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin: 0;
   margin-top: 10px;
 }
