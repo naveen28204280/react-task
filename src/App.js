@@ -6,12 +6,13 @@ import Navbar from './Navbar';
 import './App.css';
 function App() {
   return (
-    <div>
-      <Navbar/>
-      <Banner/>
-      <FoodType/>
-      <Dishes/>
-      <Links/>
+      <div>
+      <Navbar />
+      <Banner />
+      <FoodType />
+      <Dishes />
+      <p className='Space'>  </p>
+      <Links />
     </div>
   );
 }
